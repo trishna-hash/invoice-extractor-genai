@@ -1,0 +1,44 @@
+{
+  "invoice_number": "1213",
+  "invoice_date": "16.12.2021",
+  "due_date": null,
+  "billed_by": "La Galerie",
+  "billed_to": "Same as recipient",
+  "line_items": [
+    {
+      "item": "Glossostigma",
+      "amount": "29.70"
+    },
+    {
+      "item": "Bayberry",
+      "amount": "1,207.68"
+    },
+    {
+      "item": "Waxflower",
+      "amount": "56.78"
+    },
+    {
+      "item": "Carolina Geranium",
+      "amount": "187.65"
+    },
+    {
+      "item": "Smooth Solomon's Seal",
+      "amount": "14.91"
+    },
+    {
+      "item": "El Yunque Colorado",
+      "amount": "229.31"
+    },
+    {
+      "item": "Zencorporations",
+      "amount": "2809.30"
+    }
+  ],
+  "subtotal": "2553.91",
+  "discount": null,
+  "tax_or_gst": null,
+  "total_amount": "2809.30",
+  "currency": "EUR",
+  "payment_method": null,
+  "notes": ""
+}

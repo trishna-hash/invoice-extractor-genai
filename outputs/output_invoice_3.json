@@ -1,0 +1,44 @@
+{
+  "invoice_number": "Neid",
+  "invoice_date": "12-10-2021",
+  "due_date": null,
+  "billed_by": "Obacht AG",
+  "billed_to": "Heidelberger Strasse 86, Bensheim, HE, 64625",
+  "line_items": [
+    {
+      "item": "Chrysler/300M",
+      "amount": "45400"
+    },
+    {
+      "item": "Mercedes-Benz/SL-Class",
+      "amount": "12100"
+    },
+    {
+      "item": "Audi/90",
+      "amount": "18100"
+    },
+    {
+      "item": "Ford/Bronco",
+      "amount": "30900"
+    },
+    {
+      "item": "Audi/A6",
+      "amount": "30800"
+    },
+    {
+      "item": "Mitsubishi/Eclipse",
+      "amount": "22900"
+    },
+    {
+      "item": "Hummer/H1",
+      "amount": "27500"
+    }
+  ],
+  "subtotal": "187700",
+  "discount": null,
+  "tax_or_gst": "18770",
+  "total_amount": "213470",
+  "currency": "EUR",
+  "payment_method": null,
+  "notes": "Thank you for your business!"
+}

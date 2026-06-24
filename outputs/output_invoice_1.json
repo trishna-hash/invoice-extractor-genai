@@ -1,0 +1,20 @@
+{
+  "invoice_number": "INV-3337",
+  "invoice_date": "01-01-2016",
+  "due_date": "31-01-2016",
+  "billed_by": "admin@slicedinvoices.com",
+  "billed_to": "Test Business",
+  "line_items": [
+    {
+      "item": "Web Design",
+      "amount": "1.00"
+    }
+  ],
+  "subtotal": "85.00",
+  "discount": null,
+  "tax_or_gst": "8.50",
+  "total_amount": "93.50",
+  "currency": "AUD",
+  "payment_method": "ANZ Bank",
+  "notes": null
+}
