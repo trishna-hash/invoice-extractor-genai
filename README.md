@@ -6,7 +6,7 @@ This project uses **Llama 3.2:1b** running locally via **Ollama**, allowing the 
 
 ---
 
-## 🛠️ Pipeline Architecture
+##  Pipeline Architecture
 The system processes data sequentially across a 5-step engineering pipeline:
 1. **Extraction:** Opens target PDFs and harvests multi-page document layers using `pdfplumber`.
 2. **Sanitization:** Trims whitespace and purges empty trailing lines to reduce context window token usage.
